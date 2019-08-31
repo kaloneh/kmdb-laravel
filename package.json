@@ -1,0 +1,9 @@
+{
+  "name": "kmdb-laravel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaloneh/kmdb-laravel.git",
+  "author": "kaloneh <kaloneh@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
